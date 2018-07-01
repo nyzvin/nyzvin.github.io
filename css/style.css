@@ -21,3 +21,7 @@ header#indexHeader{
 		background-position: 0% 50%
 	}
 }
+
+.uk-navbar-sticky {
+	background-color: powderblue !important;
+}
