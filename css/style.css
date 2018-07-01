@@ -6,7 +6,7 @@
 header#indexHeader{
 	background: linear-gradient(-45deg, #23A6D5, #23D5AB); 
 	background-size: 400% 400%;
-	height: 65vh;
+	height: 70vh;
 	animation: Gradient 15s ease infinite;
 }
 
